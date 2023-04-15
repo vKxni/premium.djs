@@ -1,19 +1,19 @@
 <p align="center">
-  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="https://cdn.discordapp.com/attachments/881491251784978452/925487363017277510/djs.png" width="200" height="200" alt="Djs" /></a>
+  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="djs.png" width="200" height="200" alt="Djs" /></a>
 </p>
 
 # disco.js
 Discord.js Guide on how to build advanced system using Mongoose and Node.js
 
 ## Requirements
-* Basic Knowledge of JavaScript/NodeJS
-* Basic+ Knowledge of MongoDB/Mongoose
-* Basic+ experience with NPM
-* Good experience with Discord.js
-* A working connection to MongoDB with Schemas
+* Intermediate knowledge of Discord.js
+* Basic+ knowledge of JavaScript (NodeJS)
+* Basic+ knowledge of TypeScript
+* Intermediate knowledge of MongoDB (Typegoose)
+* A working connection and account at [MongoDB](https://www.mongodb.com/)
 
-Discord.js v13.5 or higher.
-Nodejs v16 or higher.
+Discord.js v14.8.
+Nodejs v16.16 (or higher).
 
 Understanding Pathing
 ```
@@ -27,12 +27,17 @@ Understanding Pathing
 
 ## Get started
 
-Click any Folder you would like to work with, in there is a README.md where every little step is explained.
-Sometimes, there is a src folder with the source code in action.
+Click any folder you would like to work with, in there is a README.md where every necessary step is explained.
+There is no licence, you can copy and use the code as you wish.
 
 ## Projects
 
+v13
 - Premium System
 - Welcome/Autorole
 - Logging
 - Suggestions
+
+v14
+- Verification System 
+- Auto-reponses (Soon!)
