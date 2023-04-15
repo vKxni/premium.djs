@@ -179,6 +179,7 @@ import { ExtendedClient } from "../structures/Client";
 import { BaseEvent } from "../structures/Event";
 import { ExtendedButtonInteraction } from "../typings/Command";
 
+// database model
 import GuildModel from "../models/guild/guild";
 
 export default class InteractionCreateEvent extends BaseEvent {
@@ -238,7 +239,7 @@ After a few seconds, your bot should be online.
 Once your bot is online, run `/setup` in your server and fill out all the required options (role, active).
 
 <p align="center">
-  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="verification.png" width="1200" height="150" alt="Verification" /></a>
+  <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="verification.png" width="350" height="150" alt="Verification" /></a>
 </p>
 
 Click the button and you should see the magic happening. 
